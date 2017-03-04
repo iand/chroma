@@ -1,4 +1,7 @@
+
 This is a Color manipulation library for the Go programming language. Parts are rewritten from Gábor Horváth's RawTherapee.
+
+This repository is a fork of code originally hosted at https://code.google.com/archive/p/chroma/
 
 Unless otherwise noted, the Chroma source files are distributed
 under the BSD-style license found in the LICENSE file.
